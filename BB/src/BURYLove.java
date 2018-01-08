@@ -5,5 +5,8 @@ public class BURYLove {
 		System.out.println(11111);
 	}
 	
+	public void yanchi(){
+		System.out.println(22211111);
+	}
 
 }
